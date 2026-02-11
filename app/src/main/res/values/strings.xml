@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trumpi VPN</string>
+    <string name="connect">CONECTAR</string>
+    <string name="disconnect">DESCONECTAR</string>
+    <string name="status_connected">CONECTADO</string>
+    <string name="status_disconnected">DESCONECTADO</string>
+    <string name="server_location">Ubicación: Miami, US</string>
+</resources>
