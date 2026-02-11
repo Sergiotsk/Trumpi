@@ -1,0 +1,5 @@
+{
+  "name": "WireGuard TV Blueprint",
+  "description": "A comprehensive technical blueprint and guide for building a minimal WireGuard VPN client specifically for low-end Android TV devices.",
+  "requestFramePermissions": []
+}
